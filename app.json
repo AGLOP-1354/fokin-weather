@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "날씨 앱",
+    "icon": "./path/to/your/app-icon.png",
+    "version": "1.0.0",
+    "slug": "weather-app",
+    "ios": {
+      "bundleIdentifier": "com.weather.weather",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.weather.weather"
+    }
+  }
+}
